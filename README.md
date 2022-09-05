@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+## Ruby Enumerable project
 
-> Description the project.
+> This is a coding challenge that creates a cutom enumerable collection similar to the Ruby Enumerable Mixin..
 
 
 ## Built With
@@ -22,14 +22,24 @@ To get a local copy up and running follow these simple example steps.
 - Ruby
 
 ### Setup
+Clone the repository and change the directory to Custom-Enumerable
+
+> git clone https://github.com/brainconnect93/Ruby-Enumerable.git
+> cd Ruby-Enumerable
 
 ### Install
+Install all project dependencies by running the command below
 
-### Usage
+> $ git --version
+> $ ruby --version && irb
 
-### Run tests
+### Run the Application
+> $ ruby challenge.rb
 
-### Deployment
+### Check linter errors
+Start the webpack dev server
+
+> $ rubocop --autocorrect
 
 
 
@@ -37,9 +47,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@t-bello7](https://github.com/t-bello7)
+- Twitter: [@__tbello](https://twitter.com/__tbello)
+- LinkedIn: [Bello Oluwatomisin](https://linkedin.com/in/tbello7)
 
 👤 **Author2**
 
